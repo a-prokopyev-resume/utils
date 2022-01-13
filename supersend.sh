@@ -12,7 +12,9 @@
 
 
 # ===========================================================================================================================================
-# Copyright (C) Alexander B. Prokopyev, 2015-2016
+# Copyright (C) Alexander B. Prokopyev, 2015-2016, All Rights Reserved
+# Contact: a.prokopyev.resume at gmail.com
+# Homepage: https://career.habr.com/alexander-prokopyev
 # Created at home during the Author spare time for usage with him home servers
 # Anybody except the AUTHOR is STRONGLY PROHIBITED to use this script without explicit permission of the AUTHOR 
 # following explicit permissions are all required simultaneously:
@@ -20,7 +22,7 @@
 # 2) signed with his qualified digital signature
 # 3) a verbal Author consent is required too
 # ===========================================================================================================================================
-# Авторское и ИМУЩЕСТВЕННОЕ право (c) Александр Борисович Прокопьев, Курган, 2015-2016
+# Авторское и ИСКЛЮЧИТЕЛЬНОЕ право (c) Александр Борисович Прокопьев, Курган, 2015-2016
 # Данный материал создан в домашних условиях во внерабочее время ТОЛЬКО ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ для экономии ТОЛЬКО времени автора
 # Всем лицам (в том числе любым физическим и юридическим лицам и их работникам) автор СТРОГО ЗАПРЕЩАЕТ без его явного разрешения копировать 
 # и использовать данный скрипт любыми способами, в т.ч. запрещает запуск данного скрипта, его модификацию или создание других скриптов
