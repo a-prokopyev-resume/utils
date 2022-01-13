@@ -15,6 +15,7 @@
 # Copyright (C) Alexander B. Prokopyev, 2015-2016, All Rights Reserved
 # Contact: a.prokopyev.resume at gmail.com
 # Homepage: https://career.habr.com/alexander-prokopyev
+# Project URL: https://github.com/a-prokopyev-resume/utils/blob/main/supersend.sh
 # Created at home during the Author spare time for usage with him home servers
 # Anybody except the AUTHOR is STRONGLY PROHIBITED to use this script without explicit permission of the AUTHOR 
 # following explicit permissions are all required simultaneously:
