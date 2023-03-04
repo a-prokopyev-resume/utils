@@ -1,14 +1,15 @@
-#===== The beginning of the Copyright Notice =====
-copyright()
-{
+#!/bin/bash
 
+copyright_notice()
+{
 echo -e "
-'============================== The Beginning of the Copyright Notice ===========================================================================
-' The AUTHOR of this file is Alexander Borisovich Prokopyev born on December 20, 1977 resident of the city of Kurgan, Russia;
+
+'============================== The Beginning of the Copyright Notice =========================================================================
+' The AUTHOR of this file is Alexander Borisovich Prokopyev born on December 20, 1977 resident of the city of Kurgan, Russia;                   
 ' Series and Russian passport number (only the last two digits for each one): **22-****91
 ' Russian Individual Taxpayer Number of the AUTHOR (only the last four digits): ********2007
 ' Russian Insurance Number of Individual Ledger Account of the AUTHOR (only the last five digits): ***-***-859 04
-' Contact: alexander.prokopyev at aulix dot com
+' Contact: a.prokopyev.resume at gmail dot com
 ' Copyright (c) Alexander B. Prokopyev, 2023, All Rights Reserved.
 '
 ' All source code contained in this file is protected by copyright law.
@@ -17,13 +18,12 @@ echo -e "
 '  The AUTHOR explicitly prohibits to use of this file content by any method (including but not limited to copying, distribution, modification, 
 '  making any derivative works) without a prior explicit authentic written hand-signed permission of the AUTHOR.
 '  This also implies that nobody except the AUTHOR may alter or remove this copyright notice from any legal copies of this file content.
-'================================= The End of the Copyright Notice ==============================================================================
-";
+'================================= The End of the Copyright Notice ============================================================================
 
+";
 }
 
-copyright;
-#===== The end of the Copyright Notice =====
+copyright_notice;
 
 #set -x;
 
